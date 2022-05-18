@@ -2,4 +2,4 @@
 
 - [Website](https://murcia.dev)
 - [Twitter](https://twitter.com/MurciaDev)
-- [Newsletter](http://digest.murcia.dev/)
+- [Newsletter](https://www.getrevue.co/profile/murciadev)
