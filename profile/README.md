@@ -12,7 +12,7 @@ We are a group of enthusiasts of the development and the new technologies. We ai
 For now, we are trying to organize an online community around our Discord server, but in the future, we want to make talks and workshops about frontend/backend/mobile development.
 
 ## Who can be part of MurciaDev?
-Everybody is welcome! No matter the background, the level, or if you are just curious about what we do here. We just ask you to read and follow our [code of conduct](https://github.com/MurciaDev/CODE_OF_CONDUCT).
+Everybody is welcome! No matter the background, the level of experience, or if you are just curious about what we do here. We just ask you to read and follow our [code of conduct](https://github.com/MurciaDev/CODE_OF_CONDUCT).
 
 
 ### Links of interest
