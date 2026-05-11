@@ -1,4 +1,4 @@
-![TW portada MurciaDev 3]([https://user-images.githubusercontent.com/1859128/168253141-e73ce157-a003-4c56-9571-d12511a0d45a.png](https://github.com/user-attachments/assets/d48c192b-7ad5-496b-8c03-3280cceb46bb))
+![TW portada MurciaDev 3](https://github.com/user-attachments/assets/d48c192b-7ad5-496b-8c03-3280cceb46bb)
 
 [🇪🇸 SPANISH](https://github.com/MurciaDev/.github/blob/main/profile/README.md)
 
